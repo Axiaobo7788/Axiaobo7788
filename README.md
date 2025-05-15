@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,nextjs,nodejs,npm,pnpm,react,tailwind,wasm,androidstudio,apollo,apple,arch,bash,babel,blender,bun,c,cpp,clion,cloudflare,cmake,dart,debian,docker,electron,figma,flutter,graphql,py,vscode,unreal)](https://skillicons.dev)
+My Skills:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,wsam,react,c,c++,docker,figma)](https://skillicons.dev)
+The operating system I am using:
+[![My Skills](https://skillicons.dev/icons?i=windows,arch,apple)](https://skillicons.dev)
 <!--
 **Axiaobo7788/Axiaobo7788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
