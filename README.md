@@ -5,7 +5,7 @@ My Skills:\
 The operating system I am using:\
 [![My Skills](https://skillicons.dev/icons?i=windows,arch,apple)](https://skillicons.dev)\
 Tel me:\
-[![Telegram]](https://t.me/axiaobo)
+[![Telegram](https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000)](https://t.me/axiaobo)
 <!--
 **Axiaobo7788/Axiaobo7788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
