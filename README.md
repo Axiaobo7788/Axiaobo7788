@@ -3,7 +3,7 @@
 My Skills:\
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,wasm,react,c,cpp,docker,figma)](https://skillicons.dev)\
 The operating system I am using:\
-[![My Skills](https://skillicons.dev/icons?i=windows,arch,apple)](https://skillicons.dev)\
+[![My Skills](https://skillicons.dev/icons?i=windows,arch,apple)](https://skillicons.dev)
 <!--
 **Axiaobo7788/Axiaobo7788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
